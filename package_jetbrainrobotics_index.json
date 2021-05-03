@@ -15,7 +15,7 @@
           "version": "2.0.0",
           "category": "Contributed",
           "url": "https://github.com/somanshraj/STM32_CORE/releases/download/0.0.1/STM32-JB.tar.bz2",
-          "archiveFileName": "STM32-2.0.0.tar.bz2",
+          "archiveFileName": "STM32-JB.tar.bz2",
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
           "size": "38496810",
           "boards": [
