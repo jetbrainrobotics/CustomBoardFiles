@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/jetbrainrobotics/STM32_CORE/raw/main/STM32-JB.tar.bz2",
           "archiveFileName": "STM32-JB.tar.bz2",
-          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
+          "checksum": "SHA-256:9caecfe1c0fbb8eebf5da9446cc5e64af5428def3953c58f520884b65a1ab90a",
           "size": "26112314",
           "boards": [
             {"name": "Jetbrain Discovery"},
