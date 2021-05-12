@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "STM32 MCU based boards",
+          "name": "Jetbrain - STM32 MCU",
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/jetbrainrobotics/STM32_CORE/releases/download/0.0.1/STM32-JB.tar.bz2",
+          "url": "https://github.com/jetbrainrobotics/STM32_CORE/raw/main/STM32-JB.tar.bz2",
           "archiveFileName": "STM32-JB.tar.bz2",
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
+          "size": "26112314",
           "boards": [
             {"name": "Jetbrain Discovery"},
             {"name": "Jetbrain STM32F4 series"}
