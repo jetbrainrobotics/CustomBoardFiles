@@ -15,7 +15,7 @@
           "version": "2.0.0",
           "category": "Contributed",
           "url": "https://github.com/jetbrainrobotics/STM32_CORE/releases/download/2.0.0/STM32_JB.tar.bz2",
-          "archiveFileName": "STM32-JB.tar.bz2",
+          "archiveFileName": "STM32_JB.tar.bz2",
           "checksum": "SHA-256:9caecfe1c0fbb8eebf5da9446cc5e64af5428def3953c58f520884b65a1ab90a",
           "size": "26112314",
           "boards": [
