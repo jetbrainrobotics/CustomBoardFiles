@@ -10,16 +10,16 @@
       },
       "platforms": [
         {
-          "name": "Jetbrain_STM32 MCU",
+          "name": "Jetbrain STM32 ",
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/jetbrainrobotics/STM32_CORE/releases/download/2.0.0/STM32_JB.tar.bz2",
-          "archiveFileName": "STM32_JB.tar.bz2",
-          "checksum": "SHA-256:aaac7554581c80acb6a196ad35ffd45a614a7e33581014dc1db3789a9b7a9ae4",
-          "size": "4998193",
+          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
+          "archiveFileName": "STM32-2.0.0.tar.bz2",
+          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
+          "size": "38496810",
           "boards": [
-            {"name": "Jetbrain STM32F4 series"}
+            {"name": "Jetbrain"}
             ],
           "toolsDependencies": [
             {
