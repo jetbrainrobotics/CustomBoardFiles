@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Jetbrain STM32 ",
+          "name": "STM32 based Jetbrain Custom Boards ",
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
@@ -19,7 +19,7 @@
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
           "size": "38496810",
           "boards": [
-            {"name": "Jetbrain"}
+            {"name": "Jetbrain CORE0"}
             ],
           "toolsDependencies": [
             {
